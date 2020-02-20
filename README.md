@@ -2,4 +2,4 @@
 CSS Transparent Menu with Icon
 
 # URL
-https://pbhadra.github.io/css_transparent_menu/
+https://pbhadra07.github.io/css_transparent_menu/
